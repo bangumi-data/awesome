@@ -7,6 +7,7 @@
 * [新番日历生成器](https://github.com/clverpanda/bangumi-calendar-generator)：生成当前正在播放的日本动画的 iCalendar 文件 [![GitHub Stars](https://badgen.net/github/stars/clverpanda/bangumi-calendar-generator?icon=github)](https://github.com/clverpanda/bangumi-calendar-generator)
 * [Bangumi番组计划](https://github.com/czy0729/Bangumi): 一个基于 React Native 的 Bangumi 第三方客户端 [![GitHub Stars](https://badgen.net/github/stars/czy0729/Bangumi?icon=github)](https://github.com/czy0729/Bangumi)
 * [番剧放送速查小程序](https://yilihjy.gitee.io/animeschedule/)：查询动漫番剧播放信息，随时随地与朋友分享喜欢的动画 [![GitHub Stars](https://badgen.net/github/stars/yilihjy/AnimeScheduleSearch?icon=github)](https://github.com/yilihjy/AnimeScheduleSearch)
+* [Bangumi 番组计划](https://www.microsoft.com/store/apps/9PLKXLTWSVXR)：Bangumi 番组计划 第三方 Win10 客户端 [![GitHub Stars](https://badgen.net/github/stars/Teachoc/Bangumi?icon=github)](https://github.com/Teachoc/Bangumi)
 
 ## Contributing
 
