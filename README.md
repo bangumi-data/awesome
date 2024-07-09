@@ -9,6 +9,7 @@
 * [番剧放送速查小程序](https://yilihjy.gitee.io/animeschedule/)：查询动漫番剧播放信息，随时随地与朋友分享喜欢的动画 [![GitHub Stars](https://badgen.net/github/stars/yilihjy/AnimeScheduleSearch?icon=github)](https://github.com/yilihjy/AnimeScheduleSearch)
 * [Bangumi 番组计划](https://www.microsoft.com/store/apps/9PLKXLTWSVXR)：Bangumi 番组计划 第三方 Win10 客户端 [![GitHub Stars](https://badgen.net/github/stars/Teachoc/Bangumi?icon=github)](https://github.com/Teachoc/Bangumi)
 * [BangumiToday](https://github.com/BTMuli/BangumiToday)：基于MikanRSS订阅的Bangumi第三方应用 [![GitHub Stars](https://badgen.net/github/stars/BTMuli/BangumiToday?icon=github)](https://github.com/BTMuli/BangumiToday)
+* [番组聚合 Bangumix](https://bangumix.top/)：番剧信息、资源、播放地址聚合导航
 
 ## Contributing
 
