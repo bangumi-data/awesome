@@ -10,6 +10,7 @@
 * [Bangumi 番组计划](https://www.microsoft.com/store/apps/9PLKXLTWSVXR)：Bangumi 番组计划 第三方 Win10 客户端 [![GitHub Stars](https://badgen.net/github/stars/Teachoc/Bangumi?icon=github)](https://github.com/Teachoc/Bangumi)
 * [BangumiToday](https://github.com/BTMuli/BangumiToday)：基于MikanRSS订阅的Bangumi第三方应用 [![GitHub Stars](https://badgen.net/github/stars/BTMuli/BangumiToday?icon=github)](https://github.com/BTMuli/BangumiToday)
 * [番组聚合 Bangumix](https://bangumix.top/)：番剧信息、资源、播放地址聚合导航
+* [BangumiD](https://github.com/iota9star/bgmd)：一个跨平台查询动漫番剧信息的应用，旨在帮助初学者更好地了解和使用 Flutter [![GitHub Stars](https://badgen.net/github/stars/iota9star/bgmd?icon=github)](https://github.com/iota9star/bgmd)
 
 ## Contributing
 
