@@ -11,6 +11,8 @@
 * [BangumiToday](https://github.com/BTMuli/BangumiToday)：基于MikanRSS订阅的Bangumi第三方应用 [![GitHub Stars](https://badgen.net/github/stars/BTMuli/BangumiToday?icon=github)](https://github.com/BTMuli/BangumiToday)
 * [番组聚合 Bangumix](https://bangumix.top/)：番剧信息、资源、播放地址聚合导航
 * [BangumiD](https://github.com/iota9star/bgmd)：一个跨平台查询动漫番剧信息的应用，旨在帮助初学者更好地了解和使用 Flutter [![GitHub Stars](https://badgen.net/github/stars/iota9star/bgmd?icon=github)](https://github.com/iota9star/bgmd)
+* [Bangumi-syncer](https://github.com/SanaeMio/Bangumi-syncer)：一款把常见媒体库与 Bangumi（番组计划）连接在一起的轻量级同步小工具。 [![GitHub Stars](https://badgen.net/github/stars/SanaeMio/Bangumi-syncer?icon=github)](https://github.com/SanaeMio/Bangumi-syncer)
+* [LogVar 弹幕 API 服务器](https://github.com/huangxd-/danmu_api)：一个人人都能部署的弹幕 API 服务器，支持各大平台弹幕直接获取，兼容弹弹play的接口规范。 [![GitHub Stars](https://badgen.net/github/stars/huangxd-/danmu_api)](https://github.com/huangxd-/danmu_api)
 
 ## Contributing
 
